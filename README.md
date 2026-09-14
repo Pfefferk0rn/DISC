@@ -1,2 +1,2 @@
-# DISC
-DISC: Disentangled Satellite Image Compression via Latent Splitting
+# DISC: Disentangled Satellite Image Compression via Latent Splitting
+Code will be released soon...
